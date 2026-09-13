@@ -43,7 +43,7 @@ Os dados estão na pasta `data` e o modelo já treinado fica em `modelo`, então
 ## Estrutura do projeto
 
 ```
-rede-neural-diabetes/
+diabetes-prediction-keras/
 ├── notebook/
 │   └── classificacao_diabetes.ipynb   # preparo, GridSearch, treino e teste
 ├── data/
